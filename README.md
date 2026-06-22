@@ -2,7 +2,7 @@
 
 # Hi, I'm Sylvie Lee 👋
 
-### AI Engineer | Machine Learning | Computer Vision | Generative AI | RAG
+### AI Engineer | Generative AI | RAG | Machine Learning | Computer Vision 
 
 I build practical AI systems that move beyond prototypes into tools used for business automation, operational monitoring, customer interaction, and data-driven decision-making.
 

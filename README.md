@@ -6,7 +6,6 @@
 
 I build practical AI systems that move beyond prototypes into tools used for business automation, operational monitoring, customer interaction, and data-driven decision-making.
 
-[![Email](https://img.shields.io/badge/Email-sylvielee273%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylvielee273@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvie%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lee-/)
 [![Location](https://img.shields.io/badge/Jakarta-Indonesia-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 

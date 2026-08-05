@@ -25,8 +25,6 @@ My main areas of focus are:
 - FastAPI-based AI services and system integration
 - Reliable, scalable, and measurable AI implementation
 
-I prefer building systems that solve real operational problems rather than stopping at model experimentation.
-
 
 ## Tech Stack
 
